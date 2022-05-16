@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @ancvl
-- 👀 I’m interested in machine learning and game development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in game development
 
 <!---
 ancvl/ancvl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
